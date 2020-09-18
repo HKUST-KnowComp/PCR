@@ -6,13 +6,13 @@ This reporsitory contains code and models adapted from [SpanBERT](https://github
 Please refer to the links of the repositories to learn about the setup of each model.
 
 ## Regular PCR
-After the setup from the original repository..TODO
+After the setup from the original repository, use `GPU=0 python evaluate.py <experiment>` for the evaluation. `independent.py` and `experiments.conf` have been modified to include our experments. 
 
 ## Hard PCR
 TODO
 
 ## Citation
-TODO
+Please check our arxiv draft [A SURVEY ONRECENTPROGRESS OFPRONOUNCOREFERENCERESOLUTION](https://www.google.com/search?q=404&oq=404&aqs=chrome..69i57.1935j0j7&sourceid=chrome&ie=UTF-8) for more information.
 
 ## Contact
 If you have any other questions about this repo, you are welcome to open an issue or send me an [email](xzhaoar@connect.ust.hk), I will respond to that as soon as possible.
