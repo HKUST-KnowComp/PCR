@@ -1,0 +1,11 @@
+#!/bin/sh
+#SBATCH --partition=learnfair
+#SBATCH --constraint=volta32gb
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+#SBATCH --mem=100000
+#SBATCH --cpus-per-task=16
+#SBATCH --gres=gpu:1
+#SBATCH --time=1200
+
+python train.py $1

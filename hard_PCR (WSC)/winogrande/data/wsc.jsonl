@@ -1,0 +1,279 @@
+{"qID": "wsc0", "sentence": " refused a permit because _ feared violence.", "option1": "The city councilmen", "option2": "The demonstrators", "answer": "1"}
+{"qID": "wsc1", "sentence": " refused a permit because _ advocated violence.", "option1": "The city councilmen", "option2": "The demonstrators", "answer": "2"}
+{"qID": "wsc2", "sentence": " doesn't fit into brown because _ is too large.", "option1": "the trophy", "option2": "the suitcase", "answer": "1"}
+{"qID": "wsc3", "sentence": " doesn't fit into brown because _ is too small.", "option1": "the trophy", "option2": "the suitcase", "answer": "2"}
+{"qID": "wsc4", "sentence": "joan made sure to thank susan for all the help _ had recieved.", "option1": "Joan", "option2": "Susan", "answer": "1"}
+{"qID": "wsc5", "sentence": "joan made sure to thank susan for all the help _ had given.", "option1": "Joan", "option2": "Susan", "answer": "2"}
+{"qID": "wsc6", "sentence": "paul tried to call george on the phone, but _ wasn't successful.", "option1": "Paul", "option2": "George", "answer": "1"}
+{"qID": "wsc7", "sentence": "paul tried to call george on the phone, but _ wasn't available.", "option1": "Paul", "option2": "George", "answer": "2"}
+{"qID": "wsc8", "sentence": " asked a question, but _ was reluctant to repeat it.", "option1": "the lawyer", "option2": "the witness", "answer": "1"}
+{"qID": "wsc9", "sentence": " asked a question, but _ was reluctant to answer it.", "option1": "the lawyer", "option2": "the witness", "answer": "2"}
+{"qID": "wsc10", "sentence": " zoomed by because _ was going so fast.", "option1": "the delivery truck", "option2": "the school bus", "answer": "1"}
+{"qID": "wsc11", "sentence": " zoomed by because _ was going so slow.", "option1": "the delivery truck", "option2": "the school bus", "answer": "2"}
+{"qID": "wsc12", "sentence": "frank felt vindicated when his longtime rival bill revealed that _ was the winner of the competition.", "option1": "Frank", "option2": "Bill", "answer": "1"}
+{"qID": "wsc13", "sentence": "frank felt crushed when his longtime rival bill revealed that _ was the winner of the competition.", "option1": "Frank", "option2": "Bill", "answer": "2"}
+{"qID": "wsc14", "sentence": " couldn't lift his because _ was so weak.", "option1": "The man", "option2": "The son", "answer": "1"}
+{"qID": "wsc15", "sentence": " couldn't lift his because _ was so heavy.", "option1": "The man", "option2": "The son", "answer": "2"}
+{"qID": "wsc16", "sentence": " crashed right through because _ was made of steel.", "option1": "The large ball", "option2": "The table", "answer": "1"}
+{"qID": "wsc17", "sentence": " crashed right through because _ was made of styrofoam.", "option1": "The large ball", "option2": "The table", "answer": "2"}
+{"qID": "wsc18", "sentence": "john couldn't see the stage with billy in front of him because _ is so short.", "option1": "John", "option2": "Billy", "answer": "1"}
+{"qID": "wsc19", "sentence": "john couldn't see the stage with billy in front of him because _ is so tall.", "option1": "John", "option2": "Billy", "answer": "2"}
+{"qID": "wsc20", "sentence": "tom threw his schoolbag down to ray after _ reached the top of the stairs.", "option1": "Tom", "option2": "Ray", "answer": "1"}
+{"qID": "wsc21", "sentence": "tom threw his schoolbag down to ray after _ reached the bottom of the stairs.", "option1": "Tom", "option2": "Ray", "answer": "2"}
+{"qID": "wsc22", "sentence": "although they ran at about the same speed, sue beat sally because _ had such a good start.", "option1": "Sue", "option2": "Sally", "answer": "1"}
+{"qID": "wsc23", "sentence": "although they ran at about the same speed, sue beat sally because _ had such a bad start.", "option1": "Sue", "option2": "Sally", "answer": "2"}
+{"qID": "wsc24", "sentence": " rolled off because _ wasn't anchored.", "option1": "The sculpture", "option2": "The shelf", "answer": "1"}
+{"qID": "wsc25", "sentence": " rolled off because _ wasn't level.", "option1": "The sculpture", "option2": "The shelf", "answer": "2"}
+{"qID": "wsc26", "sentence": "sam' wa hung just above tina' and _ did look much better with another one below it.", "option1": "Sam's drawing", "option2": "Tina's drawing", "answer": "1"}
+{"qID": "wsc27", "sentence": "sam' wa hung just above tina' and _ did look much better with another one above it.", "option1": "Sam's drawing", "option2": "Tina's drawing", "answer": "2"}
+{"qID": "wsc28", "sentence": "anna did a lot better than her good friend lucy on the test because _ had studied so hard.", "option1": "Anna", "option2": "Lucy", "answer": "1"}
+{"qID": "wsc29", "sentence": "anna did a lot worse than her good friend lucy on the test because _ had studied so hard.", "option1": "Anna", "option2": "Lucy", "answer": "2"}
+{"qID": "wsc30", "sentence": " arrived after because _ were coming from so far away.", "option1": "The firemen", "option2": "The police", "answer": "1"}
+{"qID": "wsc31", "sentence": " arrived before because _ were coming from so far away.", "option1": "The firemen", "option2": "The police", "answer": "2"}
+{"qID": "wsc32", "sentence": "frank was upset with tom because the toaster _ had bought from him didn't work.", "option1": "Frank", "option2": "Tom", "answer": "1"}
+{"qID": "wsc33", "sentence": "frank was upset with tom because the toaster _ had sold him didn't work.", "option1": "Frank", "option2": "Tom", "answer": "2"}
+{"qID": "wsc34", "sentence": "jim yelled at kevin because _ was so upset.", "option1": "Jim", "option2": "Kevin", "answer": "1"}
+{"qID": "wsc35", "sentence": "jim comforted kevin because _ was so upset.", "option1": "Jim", "option2": "Kevin", "answer": "2"}
+{"qID": "wsc36", "sentence": " had been placed above , so _ had to be moved first.", "option1": "The sack of potatoes", "option2": "The bag of flour", "answer": "1"}
+{"qID": "wsc37", "sentence": " had been placed below , so _ had to be moved first.", "option1": "The sack of potatoes", "option2": "The bag of flour", "answer": "2"}
+{"qID": "wsc38", "sentence": "pete envies martin although _ is very successful.", "option1": "Pete", "option2": "Martin", "answer": "1"}
+{"qID": "wsc39", "sentence": "pete envies martin because _ is very successful.", "option1": "Pete", "option2": "Martin", "answer": "2"}
+{"qID": "wsc40", "sentence": " were bullying ones, so we punished _ .", "option1": "The older students", "option2": "The younger students", "answer": "1"}
+{"qID": "wsc41", "sentence": " were bullying ones, so we rescued _ .", "option1": "The older students", "option2": "The younger students", "answer": "2"}
+{"qID": "wsc42", "sentence": "i poured water from into until _ was empty.", "option1": "the bottle", "option2": "the cup", "answer": "1"}
+{"qID": "wsc43", "sentence": "i poured water from into until _ was full.", "option1": "the bottle", "option2": "the cup", "answer": "2"}
+{"qID": "wsc44", "sentence": "susan knows all about ann's personal problems because _ is nosy.", "option1": "Susan", "option2": "Ann", "answer": "1"}
+{"qID": "wsc45", "sentence": "susan knows all about ann's personal problems because _ is indiscreet.", "option1": "Susan", "option2": "Ann", "answer": "2"}
+{"qID": "wsc46", "sentence": "sid explained his theory to mark but _ couldn't convince him.", "option1": "Sid", "option2": "Mark", "answer": "1"}
+{"qID": "wsc47", "sentence": "sid explained his theory to mark but _ couldn't understand him.", "option1": "Sid", "option2": "Mark", "answer": "2"}
+{"qID": "wsc48", "sentence": "susan knew that ann's son had been in a car accident, so _ told her about it.", "option1": "Susan", "option2": "Ann", "answer": "1"}
+{"qID": "wsc49", "sentence": "susan knew that ann's son had been in a car accident, because _ told her about it.", "option1": "Susan", "option2": "Ann", "answer": "2"}
+{"qID": "wsc50", "sentence": "joe' can till beat him at tennis, even though _ i 30 year younger.", "option1": "Joe", "option2": "Joe's uncle", "answer": "1"}
+{"qID": "wsc51", "sentence": "joe' can till beat him at tennis, even though _ i 30 year older.", "option1": "Joe", "option2": "Joe's uncle", "answer": "2"}
+{"qID": "wsc52", "sentence": " in mark's living room shows an . _ is to right of bookcase.", "option1": "The painting", "option2": "The oak tree", "answer": "1"}
+{"qID": "wsc53", "sentence": " in mark's living room shows an . _ is to right of a house.", "option1": "The painting", "option2": "The oak tree", "answer": "2"}
+{"qID": "wsc54", "sentence": "there is a in . you can see garden through _ .", "option1": "The gap", "option2": "The wall", "answer": "1"}
+{"qID": "wsc55", "sentence": "there is a in . you can see garden behind _ .", "option1": "The gap", "option2": "The wall", "answer": "2"}
+{"qID": "wsc56", "sentence": " is clogged with . _ has to be cleaned.", "option1": "The drain", "option2": "The hair", "answer": "1"}
+{"qID": "wsc57", "sentence": " is clogged with . _ has to be removed.", "option1": "The drain", "option2": "The hair", "answer": "2"}
+{"qID": "wsc58", "sentence": "my started at 4:00 and i needed to catch at 4:30,  so re wasn't much time. luckily, _ was short, so it worked out.", "option1": "The meeting", "option2": "The train", "answer": "1"}
+{"qID": "wsc59", "sentence": "my started at 4:00 and i needed to catch at 4:30,  so re wasn't much time. luckily, _ was delayed, so it worked out.", "option1": "The meeting", "option2": "The train", "answer": "2"}
+{"qID": "wsc60", "sentence": "there is a between me and , and i can't see around _ .", "option1": "The pillar", "option2": "The stage", "answer": "1"}
+{"qID": "wsc61", "sentence": "there is a between me and , and i can't see _ .", "option1": "The pillar", "option2": "The stage", "answer": "2"}
+{"qID": "wsc62", "sentence": "they broadcast an , but a came into  station and i couldn't hear _ .", "option1": "The announcement", "option2": "The subway", "answer": "1"}
+{"qID": "wsc63", "sentence": "they broadcast an , but a came into  station and i couldn't hear over _ .", "option1": "The announcement", "option2": "The subway", "answer": "2"}
+{"qID": "wsc64", "sentence": "in middle of outdoor , started falling, but _ continued until 10.", "option1": "The concert", "option2": "The rain", "answer": "1"}
+{"qID": "wsc65", "sentence": "in middle of outdoor , started falling, and _ continued until 10.", "option1": "The concert", "option2": "The rain", "answer": "2"}
+{"qID": "wsc66", "sentence": "i used an old to clean , and n i put _ in trash.", "option1": "The rag", "option2": "The knife", "answer": "1"}
+{"qID": "wsc67", "sentence": "i used an old to clean , and n i put _ in drawer.", "option1": "The rag", "option2": "The knife", "answer": "2"}
+{"qID": "wsc68", "sentence": "ann asked mary what time the library closes, because _ had forgotten.", "option1": "Ann", "option2": "Mary", "answer": "1"}
+{"qID": "wsc69", "sentence": "ann asked mary what time the library closes, but _ had forgotten.", "option1": "Ann", "option2": "Mary", "answer": "2"}
+{"qID": "wsc70", "sentence": "i took out of so that _ would be handy.", "option1": "The water bottle", "option2": "The backpack", "answer": "1"}
+{"qID": "wsc71", "sentence": "i took out of so that _ would be lighter.", "option1": "The water bottle", "option2": "The backpack", "answer": "2"}
+{"qID": "wsc72", "sentence": "i couldn't put on because _ was too tall.", "option1": "The pot", "option2": "The shelf", "answer": "1"}
+{"qID": "wsc73", "sentence": "i couldn't put on because _ was too high.", "option1": "The pot", "option2": "The shelf", "answer": "2"}
+{"qID": "wsc74", "sentence": "i'm sure that my will show this ; _ is very good.", "option1": "The map", "option2": "The building", "answer": "1"}
+{"qID": "wsc75", "sentence": "i'm sure that my will show this ; _ is very famous.", "option1": "The map", "option2": "The building", "answer": "2"}
+{"qID": "wsc76", "sentence": "bob paid for charlie's college education. _ is very generous.", "option1": "Bob", "option2": "Charlie", "answer": "1"}
+{"qID": "wsc77", "sentence": "bob paid for charlie's college education. _ is very grateful.", "option1": "Bob", "option2": "Charlie", "answer": "2"}
+{"qID": "wsc78", "sentence": "bob paid for charlie's college education, but now charlie acts as though it never happened. _ is very hurt.", "option1": "Bob", "option2": "Charlie", "answer": "1"}
+{"qID": "wsc79", "sentence": "bob paid for charlie's college education, but now charlie acts as though it never happened. _ is very ungrateful.", "option1": "Bob", "option2": "Charlie", "answer": "2"}
+{"qID": "wsc80", "sentence": "bob was playing cards with adam and was way ahead. if adam hadn't had a sudden run of good luck, _ would have won.", "option1": "Bob", "option2": "Adam", "answer": "1"}
+{"qID": "wsc81", "sentence": "bob was playing cards with adam and was way ahead. if adam hadn't had a sudden run of good luck, _ would have lost.", "option1": "Bob", "option2": "Adam", "answer": "2"}
+{"qID": "wsc82", "sentence": "adam can't leave work here until bob arrives to replace him. if bob had  left home for work on time, _ would be gone by this time.", "option1": "Adam", "option2": "Bob", "answer": "1"}
+{"qID": "wsc83", "sentence": "adam can't leave work here until bob arrives to replace him. if bob had  left home for work on time, _ would be here by this time.", "option1": "Adam", "option2": "Bob", "answer": "2"}
+{"qID": "wsc84", "sentence": "if has succeeded in fooling sam, _ would have gotten a lot of money.", "option1": "The con artist", "option2": "Sam", "answer": "1"}
+{"qID": "wsc85", "sentence": "if has succeeded in fooling sam, _ would have lost a lot of money.", "option1": "The con artist", "option2": "Sam", "answer": "2"}
+{"qID": "wsc86", "sentence": "it was a summer afternoon, and was sitting in middle of lawn. after a while, it got up and moved to a ,  because _ was hot.", "option1": "The dog", "option2": "The spot under the tree", "answer": "1"}
+{"qID": "wsc87", "sentence": "it was a summer afternoon, and was sitting in middle of lawn. after a while, it got up and moved to a ,  because _ was cooler.", "option1": "The dog", "option2": "The spot under the tree", "answer": "2"}
+{"qID": "wsc88", "sentence": " was lying by hole waiting for , but _ was too impatient.", "option1": "The cat", "option2": "The mouse", "answer": "1"}
+{"qID": "wsc89", "sentence": " was lying by hole waiting for , but _ was too cautious.", "option1": "The cat", "option2": "The mouse", "answer": "2"}
+{"qID": "wsc90", "sentence": "anne gave birth to a last month. _ i a very charming woman.", "option1": "Anne", "option2": "Anne's daughter", "answer": "1"}
+{"qID": "wsc91", "sentence": "anne gave birth to a last month. _ i a very charming baby.", "option1": "Anne", "option2": "Anne's daughter", "answer": "2"}
+{"qID": "wsc92", "sentence": "alice tried frantically to top her from chatting at the party, leaving u to wonder why _ wa behaving o trangely.", "option1": "Alice", "option2": "Alice's daughter", "answer": "1"}
+{"qID": "wsc93", "sentence": "alice tried frantically to top her from barking at the party, leaving u to wonder why _ wa behaving o trangely.", "option1": "Alice", "option2": "Alice's daughter", "answer": "2"}
+{"qID": "wsc94", "sentence": "i saw jim yelling at some a military with a huge red  beard. i don't know why _ was, but he looked very unhappy.", "option1": "Jim", "option2": "the guy in uniform", "answer": "1"}
+{"qID": "wsc95", "sentence": "i saw jim yelling at some a military with a huge red  beard. i don't know who _ was, but he looked very unhappy.", "option1": "Jim", "option2": "the guy in uniform", "answer": "2"}
+{"qID": "wsc96", "sentence": " ate . _ was hungry.", "option1": "The fish", "option2": "The worm", "answer": "1"}
+{"qID": "wsc97", "sentence": " ate . _ was tasty.", "option1": "The fish", "option2": "The worm", "answer": "2"}
+{"qID": "wsc98", "sentence": "i was trying to open lock with , but someone had filled  hole with , and i couldn't get _ in.", "option1": "The key", "option2": "The chewing gum", "answer": "1"}
+{"qID": "wsc99", "sentence": "i was trying to open lock with , but someone had filled  hole with , and i couldn't get _ out.", "option1": "The key", "option2": "The chewing gum", "answer": "2"}
+{"qID": "wsc100", "sentence": " chased , which ran up a tree. _ waited at bottom.", "option1": "The dog", "option2": "The cat", "answer": "1"}
+{"qID": "wsc101", "sentence": " chased , which ran up a tree. _ waited at top.", "option1": "The dog", "option2": "The cat", "answer": "2"}
+{"qID": "wsc102", "sentence": "in storm, fell down and crashed through of my  house. now, i have to get _ removed.", "option1": "The tree", "option2": "The roof", "answer": "1"}
+{"qID": "wsc103", "sentence": "in storm, fell down and crashed through of my  house. now, i have to get _ repaired.", "option1": "The tree", "option2": "The roof", "answer": "2"}
+{"qID": "wsc104", "sentence": " walked into bank and stabbed one of s. _ was immediately taken to police station.", "option1": "The customer", "option2": "The teller", "answer": "1"}
+{"qID": "wsc105", "sentence": " walked into bank and stabbed one of s. _ was immediately taken to hospital.", "option1": "The customer", "option2": "The teller", "answer": "2"}
+{"qID": "wsc106", "sentence": "john was doing research in library when he heard a humming and  whistling. _ was very annoyed.", "option1": "John", "option2": "The man", "answer": "1"}
+{"qID": "wsc107", "sentence": "john was doing research in library when he heard a humming and  whistling. _ was very annoying.", "option1": "John", "option2": "The man", "answer": "2"}
+{"qID": "wsc108", "sentence": "john was jogging through park when he saw a man juggling watermelons. _ was very impressed.", "option1": "John", "option2": "The juggler", "answer": "1"}
+{"qID": "wsc109", "sentence": "john was jogging through park when he saw a man juggling watermelons. _ was very impressive.", "option1": "John", "option2": "The juggler", "answer": "2"}
+{"qID": "wsc110", "sentence": "bob collapsed on the sidewalk. soon he saw carl coming to help. _ was very ill.", "option1": "Bob", "option2": "Carl", "answer": "1"}
+{"qID": "wsc111", "sentence": "bob collapsed on the sidewalk. soon he saw carl coming to help. _ was very concerned.", "option1": "Bob", "option2": "Carl", "answer": "2"}
+{"qID": "wsc112", "sentence": "sam amy are passionately in love, but amy' parent are unhappy about it, because _ are fifteen.", "option1": "Sam and Amy", "option2": "Amy's parents", "answer": "1"}
+{"qID": "wsc113", "sentence": "sam amy are passionately in love, but amy' parent are unhappy about it, because _ are nobs.", "option1": "Sam and Amy", "option2": "Amy's parents", "answer": "2"}
+{"qID": "wsc114", "sentence": "mark told pete many lies about himself, which pete included in his book. _ should have been more  truthful.", "option1": "Mark", "option2": "Pete", "answer": "1"}
+{"qID": "wsc115", "sentence": "mark told pete many lies about himself, which pete included in his book. _ should have been more  skeptical.", "option1": "Mark", "option2": "Pete", "answer": "2"}
+{"qID": "wsc116", "sentence": "joe has s his and bought a one a few miles away. he will be moving out of _ on thursday.", "option1": "The old house", "option2": "The new house", "answer": "1"}
+{"qID": "wsc117", "sentence": "joe has s his and bought a one a few miles away. he will be moving into _ on thursday.", "option1": "The old house", "option2": "The new house", "answer": "2"}
+{"qID": "wsc118", "sentence": "many tart to read paul' book and can't put them down. _ are gripped because paul write o well.", "option1": "People", "option2": "Paul's books", "answer": "1"}
+{"qID": "wsc119", "sentence": "many tart to read paul' book and can't put them down. _ are popular because paul write o well.", "option1": "People", "option2": "Paul's books", "answer": "2"}
+{"qID": "wsc120", "sentence": "mary took out her and played one of her favorite s. she has had _ since she was a child.", "option1": "The flute", "option2": "The piece", "answer": "1"}
+{"qID": "wsc121", "sentence": "mary took out her and played one of her favorite s. she has loved _ since she was a child.", "option1": "The flute", "option2": "The piece", "answer": "2"}
+{"qID": "wsc122", "sentence": "sam pulled up a to , but _ was broken, so he had to stand instead.", "option1": "The chair", "option2": "The piano", "answer": "1"}
+{"qID": "wsc123", "sentence": "sam pulled up a to , but _ was broken, so he had to sing instead.", "option1": "The chair", "option2": "The piano", "answer": "2"}
+{"qID": "wsc124", "sentence": "since it was raining, i carried in my to keep _ dry.", "option1": "The newspaper", "option2": "The backpack", "answer": "1"}
+{"qID": "wsc125", "sentence": "since it was raining, i carried over my to keep _ dry.", "option1": "The newspaper", "option2": "The backpack", "answer": "2"}
+{"qID": "wsc126", "sentence": "sara borrowed from library because she needs it for an she is working on. she reads _ when she gets home from work.", "option1": "The book", "option2": "The article", "answer": "1"}
+{"qID": "wsc127", "sentence": "sara borrowed from library because she needs it for an she is working on. she writes _ when she gets home from work.", "option1": "The book", "option2": "The article", "answer": "2"}
+{"qID": "wsc128", "sentence": "this morning, joey built a on beach, and put a toy  in highest tower, but this afternoon tide  knocked _ down.", "option1": "The sand castle", "option2": "The flag", "answer": "1"}
+{"qID": "wsc129", "sentence": "this morning, joey built a on beach, and put a toy  in highest tower, but this afternoon wind  knocked _ down.", "option1": "The sand castle", "option2": "The flag", "answer": "2"}
+{"qID": "wsc130", "sentence": "jane knocked on susan's door, but there was no answer. _ was disappointed.", "option1": "Jane", "option2": "Susan", "answer": "1"}
+{"qID": "wsc131", "sentence": "jane knocked on susan's door, but there was no answer. _ was out.", "option1": "Jane", "option2": "Susan", "answer": "2"}
+{"qID": "wsc132", "sentence": "jane knocked on the door, and susan answered it. _ invited her to come out.", "option1": "Jane", "option2": "Susan", "answer": "1"}
+{"qID": "wsc133", "sentence": "jane knocked on the door, and susan answered it. _ invited her to come in.", "option1": "Jane", "option2": "Susan", "answer": "2"}
+{"qID": "wsc134", "sentence": "sam took french classes from adam, because _ was eager to speak it fluently.", "option1": "Sam", "option2": "Adam", "answer": "1"}
+{"qID": "wsc135", "sentence": "sam took french classes from adam, because _ was known to speak it fluently.", "option1": "Sam", "option2": "Adam", "answer": "2"}
+{"qID": "wsc136", "sentence": " to was blocked, so we couldn't use _ .", "option1": "The path", "option2": "The lake", "answer": "1"}
+{"qID": "wsc137", "sentence": " to was blocked, so we couldn't reach _ .", "option1": "The path", "option2": "The lake", "answer": "2"}
+{"qID": "wsc138", "sentence": " was covered by a thick all morning, but luckily, by time picnic started, _ was out.", "option1": "The sun", "option2": "The cloud", "answer": "1"}
+{"qID": "wsc139", "sentence": " was covered by a thick all morning, but luckily, by time picnic started, _ was gone.", "option1": "The sun", "option2": "The cloud", "answer": "2"}
+{"qID": "wsc140", "sentence": "we went to , because a shark had been seen at ocean , so _ was a safer place to swim.", "option1": "The lake", "option2": "The ocean beach", "answer": "1"}
+{"qID": "wsc141", "sentence": "we went to , because a shark had been seen at ocean , so _ was a dangerous place to swim.", "option1": "The lake", "option2": "The ocean beach", "answer": "2"}
+{"qID": "wsc142", "sentence": "sam tried to paint a picture of with , but _ ended up looking more like golfers.", "option1": "The shepherds", "option2": "The sheep", "answer": "1"}
+{"qID": "wsc143", "sentence": "sam tried to paint a picture of with , but _ ended up looking more like dogs.", "option1": "The shepherds", "option2": "The sheep", "answer": "2"}
+{"qID": "wsc144", "sentence": "mary tucked her anne into bed, o that _ could work.", "option1": "Mary", "option2": "Mary's daughter", "answer": "1"}
+{"qID": "wsc145", "sentence": "mary tucked her anne into bed, o that _ could leep.", "option1": "Mary", "option2": "Mary's daughter", "answer": "2"}
+{"qID": "wsc146", "sentence": "fred alice had very warm down , but _ were not prepared for the cold in alaska.", "option1": "Fred and Alice", "option2": "coats", "answer": "1"}
+{"qID": "wsc147", "sentence": "fred alice had very warm down , but _ were not enough for the cold in alaska.", "option1": "Fred and Alice", "option2": "coats", "answer": "2"}
+{"qID": "wsc148", "sentence": "thomson visited cooper's grave in 1765. at that date _ had been travelling for five years.", "option1": "Thomson", "option2": "Cooper", "answer": "1"}
+{"qID": "wsc149", "sentence": "thomson visited cooper's grave in 1765. at that date _ had been dead for five years.", "option1": "Thomson", "option2": "Cooper", "answer": "2"}
+{"qID": "wsc150", "sentence": "jackson was greatly influenced by arnold, though _ lived two centuries later.", "option1": "Jackson", "option2": "Arnold", "answer": "1"}
+{"qID": "wsc151", "sentence": "jackson was greatly influenced by arnold, though _ lived two centuries earlier.", "option1": "Jackson", "option2": "Arnold", "answer": "2"}
+{"qID": "wsc152", "sentence": "i can't cut that down with that ; _ is too thick.", "option1": "The tree", "option2": "The axe", "answer": "1"}
+{"qID": "wsc153", "sentence": "i can't cut that down with that ; _ is too small.", "option1": "The tree", "option2": "The axe", "answer": "2"}
+{"qID": "wsc154", "sentence": " are getting in at night and attacking . i shall have to kill _ .", "option1": "The foxes", "option2": "The chickens", "answer": "1"}
+{"qID": "wsc155", "sentence": " are getting in at night and attacking . i shall have to guard _ .", "option1": "The foxes", "option2": "The chickens", "answer": "2"}
+{"qID": "wsc156", "sentence": " are getting in at night and attacking . _ have gotten very bold.", "option1": "The foxes", "option2": "The chickens", "answer": "1"}
+{"qID": "wsc157", "sentence": " are getting in at night and attacking . _ have gotten very nervous.", "option1": "The foxes", "option2": "The chickens", "answer": "2"}
+{"qID": "wsc158", "sentence": "fred covered with , because the wind was blowing sand around. he opened _ when the wind stopped.", "option1": "His eyes", "option2": "His hands", "answer": "1"}
+{"qID": "wsc159", "sentence": "fred covered with , because the wind was blowing sand around. he lowered _ when the wind stopped.", "option1": "His eyes", "option2": "His hands", "answer": "2"}
+{"qID": "wsc160", "sentence": "the actress used to be named terpsichore, but she changed it to tina a  few years ago, because she figured _ was too hard to pronounce.", "option1": "Terpsichore", "option2": "Tina", "answer": "1"}
+{"qID": "wsc161", "sentence": "the actress used to be named terpsichore, but she changed it to tina a  few years ago, because she figured _ was easier to pronounce.", "option1": "Terpsichore", "option2": "Tina", "answer": "2"}
+{"qID": "wsc162", "sentence": "fred watched tv while george went out to buy groceries. after an hour _ got up.", "option1": "Fred", "option2": "George", "answer": "1"}
+{"qID": "wsc163", "sentence": "fred watched tv while george went out to buy groceries. after an hour _ got back.", "option1": "Fred", "option2": "George", "answer": "2"}
+{"qID": "wsc164", "sentence": "fred was supposed to run , but he put it off,  because he wanted to watch . but show turned out to be boring, so he changed his mind and turned _ on.", "option1": "The dishwasher", "option2": "The TV", "answer": "1"}
+{"qID": "wsc165", "sentence": "fred was supposed to run , but he put it off,  because he wanted to watch . but show turned out to be boring, so he changed his mind and turned _ off.", "option1": "The dishwasher", "option2": "The TV", "answer": "2"}
+{"qID": "wsc166", "sentence": "fred is the only man still alive who remembers -grandfather. _ is a remarkable man.", "option1": "Fred", "option2": "My great-grandfather", "answer": "1"}
+{"qID": "wsc167", "sentence": "fred is the only man still alive who remembers -grandfather. _ was a remarkable man.", "option1": "Fred", "option2": "My great-grandfather", "answer": "2"}
+{"qID": "wsc168", "sentence": "fred is the only man alive who still remembers as an infant. when fred first saw , _ was twelve years old.", "option1": "Fred", "option2": "My father", "answer": "1"}
+{"qID": "wsc169", "sentence": "fred is the only man alive who still remembers as an infant. when fred first saw , _ was twelve months old.", "option1": "Fred", "option2": "My father", "answer": "2"}
+{"qID": "wsc170", "sentence": "in july, kamtchatka declared war on yakutsk. since yakutsk's army was much  better equipped and ten times larger, _ were defeated within weeks.", "option1": "Kamchatka", "option2": "Yakutsk", "answer": "1"}
+{"qID": "wsc171", "sentence": "in july, kamtchatka declared war on yakutsk. since yakutsk's army was much  better equipped and ten times larger, _ were victorious within weeks.", "option1": "Kamchatka", "option2": "Yakutsk", "answer": "2"}
+{"qID": "wsc172", "sentence": "look! re is a swimming right below that ! _ had better get away to safety fast!", "option1": "The minnow", "option2": "The duck", "answer": "1"}
+{"qID": "wsc173", "sentence": "look! re is a swimming right below that ! _ had better get away to safety fast!", "option1": "The shark", "option2": "The duck", "answer": "2"}
+{"qID": "wsc174", "sentence": " have concluded that lived in laputa 20,000 years ago. _ hunted for evidence on the river banks.", "option1": "Archaeologists", "option2": "Prehistoric humans", "answer": "1"}
+{"qID": "wsc175", "sentence": " have concluded that lived in laputa 20,000 years ago. _ hunted for deer on the river banks.", "option1": "Archaeologists", "option2": "Prehistoric humans", "answer": "2"}
+{"qID": "wsc176", "sentence": " are studying three species of that have recently been found living in indian ocean. _ began two years ago.", "option1": "The scientists", "option2": "The fish", "answer": "1"}
+{"qID": "wsc177", "sentence": " are studying three species of that have recently been found living in indian ocean. _ appeared two years ago.", "option1": "The scientists", "option2": "The fish", "answer": "2"}
+{"qID": "wsc178", "sentence": " interviewed of new movie. _ were very persistent, so interview lasted for a long time.", "option1": "The journalists", "option2": "The stars", "answer": "1"}
+{"qID": "wsc179", "sentence": " interviewed of new movie. _ were very cooperative, so interview lasted for a long time.", "option1": "The journalists", "option2": "The stars", "answer": "2"}
+{"qID": "wsc180", "sentence": " arrested all of . _ were trying to stop drug trade in neighborhood.", "option1": "The police", "option2": "The gang members", "answer": "1"}
+{"qID": "wsc181", "sentence": " arrested all of . _ were trying to run drug trade in neighborhood.", "option1": "The police", "option2": "The gang members", "answer": "2"}
+{"qID": "wsc182", "sentence": "i put away in . _ has a lot of butter in it.", "option1": "The cake", "option2": "The refrigerator", "answer": "1"}
+{"qID": "wsc183", "sentence": "i put away in . _ has a lot of leftovers in it.", "option1": "The cake", "option2": "The refrigerator", "answer": "2"}
+{"qID": "wsc184", "sentence": "sam broke both his and he's walking with . but a month or so from now _ should be better.", "option1": "The ankles", "option2": "The crutches", "answer": "1"}
+{"qID": "wsc185", "sentence": "sam broke both his and he's walking with . but a month or so from now _ should be unnecessary.", "option1": "The ankles", "option2": "The crutches", "answer": "2"}
+{"qID": "wsc186", "sentence": "when of bill got to town hall, y were surprised to find that room was full of . _ were very much in minority.", "option1": "The sponsors", "option2": "The opponents", "answer": "1"}
+{"qID": "wsc187", "sentence": "when of bill got to town hall, y were surprised to find that room was full of . _ were very much in majority.", "option1": "The sponsors", "option2": "The opponents", "answer": "2"}
+{"qID": "wsc188", "sentence": "everyone really loved ; only a few people liked  . next time, we should make more of _ .", "option1": "The oatmeal cookies", "option2": "The chocolate chip cookies", "answer": "1"}
+{"qID": "wsc189", "sentence": "everyone really loved ; only a few people liked  . next time, we should make fewer of _ .", "option1": "The oatmeal cookies", "option2": "The chocolate chip cookies", "answer": "2"}
+{"qID": "wsc190", "sentence": "we had hoped to place our on all in auditorium, but re were simply not enough _ .", "option1": "copies of the newsletter", "option2": "chairs", "answer": "1"}
+{"qID": "wsc191", "sentence": "we had hoped to place our on all in auditorium, but re were simply too many _ .", "option1": "copies of the newsletter", "option2": "chairs", "answer": "2"}
+{"qID": "wsc192", "sentence": "i stuck a through a . when i pulled out, _ left a hole.", "option1": "The pin", "option2": "The carrot", "answer": "1"}
+{"qID": "wsc193", "sentence": "i stuck a through a . when i pulled out, _ had a hole.", "option1": "The pin", "option2": "The carrot", "answer": "2"}
+{"qID": "wsc194", "sentence": "i couldn't find a spoon, so i tried using a to stir my  . but that turned out to be a bad idea, because _ got full of .", "option1": "The pen", "option2": "The coffee", "answer": "1"}
+{"qID": "wsc195", "sentence": "i couldn't find a spoon, so i tried using a to stir my  . but that turned out to be a bad idea, because _ got full of ink.", "option1": "The pen", "option2": "The coffee", "answer": "2"}
+{"qID": "wsc196", "sentence": "steve follows fred's example in everything. _ admires him hugely.", "option1": "Steve", "option2": "Fred", "answer": "1"}
+{"qID": "wsc197", "sentence": "steve follows fred's example in everything. _ influences him hugely.", "option1": "Steve", "option2": "Fred", "answer": "2"}
+{"qID": "wsc198", "sentence": " won't fit through because _ is too wide.", "option1": "The table", "option2": "The doorway", "answer": "1"}
+{"qID": "wsc199", "sentence": " won't fit through because _ is too narrow.", "option1": "The table", "option2": "The doorway", "answer": "2"}
+{"qID": "wsc200", "sentence": "grace was happy to trade me her for my . she thinks _ looks dowdy on her.", "option1": "The sweater", "option2": "The jacket", "answer": "1"}
+{"qID": "wsc201", "sentence": "grace was happy to trade me her for my . she thinks _ looks great on her.", "option1": "The sweater", "option2": "The jacket", "answer": "2"}
+{"qID": "wsc202", "sentence": "john hired bill to take care of _ .", "option1": "John", "option2": "Bill", "answer": "1"}
+{"qID": "wsc203", "sentence": "john hired himself out to bill to take care of _ .", "option1": "John", "option2": "Bill", "answer": "2"}
+{"qID": "wsc204", "sentence": "john promised bill to leave, so an hour later _ left.", "option1": "John", "option2": "Bill", "answer": "1"}
+{"qID": "wsc205", "sentence": "john ordered bill to leave, so an hour later _ left.", "option1": "John", "option2": "Bill", "answer": "2"}
+{"qID": "wsc206", "sentence": "sam goodman's biography of the spartan general xenophanes conveys a vivid sense of the difficulties _ faced in his research.", "option1": "Goodman", "option2": "Xenophanes", "answer": "1"}
+{"qID": "wsc207", "sentence": "sam goodman's biography of the spartan general xenophanes conveys a vivid sense of the difficulties _ faced in his childhood.", "option1": "Goodman", "option2": "Xenophanes", "answer": "2"}
+{"qID": "wsc208", "sentence": "emma' had died long ago, and _ education had been managed by an excellent woman a governess.", "option1": "Emma", "option2": "Emma's mother", "answer": "1"}
+{"qID": "wsc209", "sentence": "emma' had died long ago, and _ place had been taken by an excellent woman a governess.", "option1": "Emma", "option2": "Emma's mother", "answer": "2"}
+{"qID": "wsc210", "sentence": "jane knocked on susan's door but _ did not get an answer.", "option1": "Jane", "option2": "Susan", "answer": "1"}
+{"qID": "wsc211", "sentence": "jane knocked on susan's door but _ did not answer.", "option1": "Jane", "option2": "Susan", "answer": "2"}
+{"qID": "wsc212", "sentence": "joe paid after _ received final report on case.", "option1": "Joe", "option2": "the detective", "answer": "1"}
+{"qID": "wsc213", "sentence": "joe paid after _ delivered final report on case.", "option1": "Joe", "option2": "the detective", "answer": "2"}
+{"qID": "wsc214", "sentence": "beth didn't get angry with sally, who had cut her off, because _ stopped and counted to ten.", "option1": "Beth", "option2": "Sally", "answer": "1"}
+{"qID": "wsc215", "sentence": "beth didn't get angry with sally, who had cut her off, because _ stopped and apologized.", "option1": "Beth", "option2": "Sally", "answer": "2"}
+{"qID": "wsc216", "sentence": "jim signaled and gestured toward _ empty glass", "option1": "Jim", "option2": "The barman", "answer": "1"}
+{"qID": "wsc217", "sentence": "jim signaled and gestured toward _ bathroom key.", "option1": "Jim", "option2": "The barman", "answer": "2"}
+{"qID": "wsc218", "sentence": "dan took the rear seat while bill claimed the front because _ \"dibs!\" was slow.", "option1": "Dan", "option2": "Bill", "answer": "1"}
+{"qID": "wsc219", "sentence": "dan took the rear seat while bill claimed the front because _ \"dibs!\" was quicker.", "option1": "Dan", "option2": "Bill", "answer": "2"}
+{"qID": "wsc220", "sentence": "tom said \"check\" to ralph as he moved _ bishop.", "option1": "Tom", "option2": "Ralph", "answer": "1"}
+{"qID": "wsc221", "sentence": "tom said \"check\" to ralph as he took _ bishop.", "option1": "Tom", "option2": "Ralph", "answer": "2"}
+{"qID": "wsc222", "sentence": "as andrea in the crop duster passed over susan, _ could see the landing strip.", "option1": "Andrea", "option2": "Susan", "answer": "1"}
+{"qID": "wsc223", "sentence": "as andrea in the crop duster passed over susan, _ could see the landing gear.", "option1": "Andrea", "option2": "Susan", "answer": "2"}
+{"qID": "wsc224", "sentence": "tom gave ralph a lift to school so _ wouldn't have to drive alone.", "option1": "Tom", "option2": "Ralph", "answer": "1"}
+{"qID": "wsc225", "sentence": "tom gave ralph a lift to school so _ wouldn't have to walk.", "option1": "Tom", "option2": "Ralph", "answer": "2"}
+{"qID": "wsc226", "sentence": "bill passed the half-empty plate to john because _ was full.", "option1": "Bill", "option2": "John", "answer": "1"}
+{"qID": "wsc227", "sentence": "bill passed the half-empty plate to john because _ was hungry.", "option1": "Bill", "option2": "John", "answer": "2"}
+{"qID": "wsc228", "sentence": "bill passed the gameboy to john because _ turn was over.", "option1": "Bill", "option2": "John", "answer": "1"}
+{"qID": "wsc229", "sentence": "bill passed the gameboy to john because _ turn was next.", "option1": "Bill", "option2": "John", "answer": "2"}
+{"qID": "wsc230", "sentence": " lifted onto _ shoulders.", "option1": "The man", "option2": "The boy", "answer": "1"}
+{"qID": "wsc231", "sentence": " lifted onto _ bunk bed.", "option1": "The man", "option2": "The boy", "answer": "2"}
+{"qID": "wsc232", "sentence": "stretching _ back, smiled at .", "option1": "The woman", "option2": "The girl", "answer": "1"}
+{"qID": "wsc233", "sentence": "patting _ back, smiled at .", "option1": "The woman", "option2": "The girl", "answer": "2"}
+{"qID": "wsc234", "sentence": "billy cried because toby wouldn't accept _ toy.", "option1": "Billy", "option2": "Toby", "answer": "1"}
+{"qID": "wsc235", "sentence": "billy cried because toby wouldn't share _ toy.", "option1": "Billy", "option2": "Toby", "answer": "2"}
+{"qID": "wsc236", "sentence": "lily spoke to donna, breaking _ silence.", "option1": "Lily", "option2": "Donna", "answer": "1"}
+{"qID": "wsc237", "sentence": "lily spoke to donna, breaking _ concentration.", "option1": "Lily", "option2": "Donna", "answer": "2"}
+{"qID": "wsc238", "sentence": "when tommy dropped his ice cream, timmy giggled, so father gave _ a sympathetic look.", "option1": "Tommy", "option2": "Timmy", "answer": "1"}
+{"qID": "wsc239", "sentence": "when tommy dropped his ice cream, timmy giggled, so father gave _ a stern look.", "option1": "Tommy", "option2": "Timmy", "answer": "2"}
+{"qID": "wsc240", "sentence": "as ollie carried tommy up the long winding steps, _ legs ached.", "option1": "Ollie", "option2": "Tommy", "answer": "1"}
+{"qID": "wsc241", "sentence": "as ollie carried tommy up the long winding steps, _ legs dangled.", "option1": "Ollie", "option2": "Tommy", "answer": "2"}
+{"qID": "wsc242", "sentence": " carried sleeping in _ arms", "option1": "The father", "option2": "The boy", "answer": "1"}
+{"qID": "wsc243", "sentence": " carried sleeping in _ bassinet.", "option1": "The father", "option2": "The boy", "answer": "2"}
+{"qID": "wsc244", "sentence": " held against _ chest", "option1": "The woman", "option2": "The girl", "answer": "1"}
+{"qID": "wsc245", "sentence": " held against _ will.", "option1": "The woman", "option2": "The girl", "answer": "2"}
+{"qID": "wsc246", "sentence": "pam' parent came home found her having ex with her boyfriend, paul. _ were furiou about it.", "option1": "Pam's parents", "option2": "Pam and Paul", "answer": "1"}
+{"qID": "wsc247", "sentence": "pam' parent came home found her having ex with her boyfriend, paul. _ were embarrassed about it.", "option1": "Pam's parents", "option2": "Pam and Paul", "answer": "2"}
+{"qID": "wsc248", "sentence": "dr. adams informed kate that _ had retired and presented several options for future treatment.", "option1": "Dr. Adams", "option2": "Kate", "answer": "1"}
+{"qID": "wsc249", "sentence": "dr. adams informed kate that _ had cancer and presented several options for future treatment.", "option1": "Dr. Adams", "option2": "Kate", "answer": "2"}
+{"qID": "wsc250", "sentence": "dan had to stop bill from toying with the injured bird. _ is very compassionate.", "option1": "Dan", "option2": "Bill", "answer": "1"}
+{"qID": "wsc251", "sentence": "dan had to stop bill from toying with the injured bird. _ is very cruel.", "option1": "Dan", "option2": "Bill", "answer": "2"}
+{"qID": "wsc252", "sentence": "george got free tickets to the play, but he gave them to eric, even though _ was particularly eager to see it.", "option1": "George", "option2": "Eric", "answer": "1"}
+{"qID": "wsc253", "sentence": "george got free tickets to the play, but he gave them to eric, because _ was particularly eager to see it.", "option1": "George", "option2": "Eric", "answer": "2"}
+{"qID": "wsc254", "sentence": "george got free tickets to the play, but he gave them to eric, because _ was not particularly eager to see it.", "option1": "George", "option2": "Eric", "answer": "1"}
+{"qID": "wsc255", "sentence": "jane gave joan candy because _ wasn't hungry.", "option1": "Jane", "option2": "Joan", "answer": "1"}
+{"qID": "wsc256", "sentence": "jane gave joan candy because _ was hungry.", "option1": "Jane", "option2": "Joan", "answer": "2"}
+{"qID": "wsc257", "sentence": "i tried to paint a picture of an orchard, with in the ,  but _ came out looking more like light bulbs.", "option1": "lemons", "option2": "lemon trees", "answer": "1"}
+{"qID": "wsc258", "sentence": "i tried to paint a picture of an orchard, with in the ,  but _ came out looking more like telephone poles.", "option1": "lemons", "option2": "lemon trees", "answer": "2"}
+{"qID": "wsc259", "sentence": "james asked robert for a favor but _ was refused.", "option1": "James", "option2": "Robert", "answer": "1"}
+{"qID": "wsc260", "sentence": "james asked robert for a favor but _ refused.", "option1": "James", "option2": "Robert", "answer": "2"}
+{"qID": "wsc261", "sentence": "kirilov ceded the presidency to shatov because _ was less popular.", "option1": "Kirilov", "option2": "Shatov", "answer": "1"}
+{"qID": "wsc262", "sentence": "kirilov ceded the presidency to shatov because _ was more popular.", "option1": "Kirilov", "option2": "Shatov", "answer": "2"}
+{"qID": "wsc263", "sentence": "emma did not pass the ball to janie although _ saw that she was open.", "option1": "Emma", "option2": "Janie", "answer": "1"}
+{"qID": "wsc264", "sentence": "emma did not pass the ball to janie although _ was open.", "option1": "Emma", "option2": "Janie", "answer": "2"}
+{"qID": "wsc265", "sentence": "i put on and _ broke.", "option1": "The butterfly wing", "option2": "The table", "answer": "1"}
+{"qID": "wsc266", "sentence": "i put on and _ broke.", "option1": "The heavy book", "option2": "The table", "answer": "2"}
+{"qID": "wsc267", "sentence": "madonna fired her because _ couldn't stand her boyfriend.", "option1": "Madonna", "option2": "The trainer", "answer": "1"}
+{"qID": "wsc268", "sentence": "madonna fired her because _ slept with her boyfriend.", "option1": "Madonna", "option2": "The trainer", "answer": "2"}
+{"qID": "wsc269", "sentence": "madonna fired her because she slept with _ boyfriend.", "option1": "Madonna", "option2": "The trainer", "answer": "1"}
+{"qID": "wsc270", "sentence": "madonna fired her because she couldn't stand _ boyfriend.", "option1": "Madonna", "option2": "The trainer", "answer": "2"}
+{"qID": "wsc271", "sentence": "carol believed that rebecca suspected that _ had stolen the watch.", "option1": "Carol", "option2": "Rebecca", "answer": "1"}
+{"qID": "wsc272", "sentence": "carol believed that rebecca regretted that _ had stolen the watch.", "option1": "Carol", "option2": "Rebecca", "answer": "2"}
+{"qID": "wsc273", "sentence": "this book introduced shakespeare to ovid; it was a major influence on _ writing.", "option1": "Shakespeare", "option2": "Ovid", "answer": "1"}
+{"qID": "wsc274", "sentence": "this book introduced shakespeare to goethe; it was a major influence on _ writing.", "option1": "Shakespeare", "option2": "Goethe", "answer": "2"}
+{"qID": "wsc275", "sentence": "this book introduced shakespeare to ovid; it was a fine selection of _ writing.", "option1": "Shakespeare", "option2": "Ovid", "answer": "2"}
+{"qID": "wsc276", "sentence": "this book introduced shakespeare to goethe; it was a fine selection of _ writing.", "option1": "Shakespeare", "option2": "Goethe", "answer": "1"}
+{"qID": "wsc277", "sentence": "alice looked for her friend jade in the crowd. since _ always has good luck, alice spotted her quickly.", "option1": "Alice", "option2": "Jade", "answer": "1"}
+{"qID": "wsc278", "sentence": "alice looked for her friend jade in the crowd. since _ always wears a red turban, alice spotted her quickly.", "option1": "Alice", "option2": "Jade", "answer": "2"}
