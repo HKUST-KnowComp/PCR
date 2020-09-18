@@ -12,7 +12,7 @@ After the setup from the original repository, use `GPU=0 python evaluate.py <exp
 TODO
 
 ## Citation
-Please check our arxiv draft [A SURVEY ONRECENTPROGRESS OFPRONOUNCOREFERENCERESOLUTION](https://www.google.com/search?q=404&oq=404&aqs=chrome..69i57.1935j0j7&sourceid=chrome&ie=UTF-8) for more information.
+Please check our arxiv draft [A Survey on Recent Progress of Pronoun Coreference Resolution](https://www.google.com/search?q=404&oq=404&aqs=chrome..69i57.1935j0j7&sourceid=chrome&ie=UTF-8) for more information.
 
 ## Contact
 If you have any other questions about this repo, you are welcome to open an issue or send me an [email](xzhaoar@connect.ust.hk), I will respond to that as soon as possible.
