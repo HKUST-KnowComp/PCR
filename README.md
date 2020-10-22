@@ -1,5 +1,5 @@
 # PCR
-Codes for A Brief Survey and Comparative Study of Recent Development of Pronoun Coreference Resolution
+Codes for the survey paper:[A Survey on Recent Progress of Pronoun Coreference Resolution](https://arxiv.org/abs/2009.12721) 
 This reporsitory contains code and models adapted from [SpanBERT](https://github.com/younghz/Markdown), [Winogrande](https://github.com/allenai/winogrande), and [GPT2](https://github.com/openai/gpt-2). Additional, we include our analysis and replication code for the regular PCR (CoNLL-2012 solved by SpanBERT) and Hard PCR (Winograd Schema Challenge solved by Winogrande and GPT2) problems. The analysis includes finegrained pronoun setting, cross-domain setting, model comparison, dataset split and etc.
 
 
